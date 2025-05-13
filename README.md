@@ -77,6 +77,6 @@ Feel free to use, modify, and distribute it under the terms of the license.
 
 ## 🙋‍♂️ Author
 
-**Surya A.**  
+**Surya.**  
 GitHub: [@SuryAcodes712](https://github.com/SuryAcodes712)  
 Project Repository: [Surya-sweatherApp](https://github.com/SuryAcodes712/Surya-sweatherApp)

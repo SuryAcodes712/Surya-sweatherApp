@@ -61,7 +61,8 @@ const API_URL = `https://api.openweathermap.org/data/2.5/weather?appid=${API_KEY
 
 > Add screenshots of the live app interface here:
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Surya's+Weather+App+Screenshot)
+![App Screenshot](![Screenshot 2025-05-13 043606](https://github.com/user-attachments/assets/9f300771-33f1-420c-b7e4-5fc81f5b08a2)
+)
 
 ---
 

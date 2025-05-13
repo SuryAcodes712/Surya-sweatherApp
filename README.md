@@ -42,3 +42,38 @@ To fetch live weather data, you need a free API key from OpenWeatherMap.
 // config.js
 const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';
 const API_URL = `https://api.openweathermap.org/data/2.5/weather?appid=${API_KEY}&units=metric`;
+```
+
+---
+
+## 🛠️ Built With
+
+- 🧱 **HTML5**
+- 🎨 **CSS3** – Cyberpunk theme, animations, and responsive layout  
+- 🧠 **JavaScript (ES6+)**
+- 🌍 **OpenWeatherMap API**
+- 📡 **Geolocation API**
+- 🧊 **Glassmorphism & glitch effects**
+
+---
+
+## 🖼️ App Screenshots
+
+> Add screenshots of the live app interface here:
+
+![App Screenshot](https://via.placeholder.com/800x400.png?text=Surya's+Weather+App+Screenshot)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute it under the terms of the license.
+
+---
+
+## 🙋‍♂️ Author
+
+**Surya A.**  
+GitHub: [@SuryAcodes712](https://github.com/SuryAcodes712)  
+Project Repository: [Surya-sweatherApp](https://github.com/SuryAcodes712/Surya-sweatherApp)

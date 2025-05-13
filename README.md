@@ -59,10 +59,11 @@ const API_URL = `https://api.openweathermap.org/data/2.5/weather?appid=${API_KEY
 
 ## 🖼️ App Screenshots
 
-> Add screenshots of the live app interface here:
+Here’s a preview of the application interface:
 
-![App Screenshot](![Screenshot 2025-05-13 043606](https://github.com/user-attachments/assets/9f300771-33f1-420c-b7e4-5fc81f5b08a2)
-)
+![App Screenshot](https://github.com/user-attachments/assets/9f300771-33f1-420c-b7e4-5fc81f5b08a2/Screenshot%202025-05-13%20043606.png)
+
+> _Screenshot taken on May 13, 2025_
 
 ---
 

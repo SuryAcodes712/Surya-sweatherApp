@@ -62,7 +62,7 @@ const API_URL = `https://api.openweathermap.org/data/2.5/weather?appid=${API_KEY
 Here’s a preview of the application interface:
 
 ![App Screenshot](https://github.com/user-attachments/assets/afd6fea3-7487-48eb-995b-1b8246dea466)
-)
+
 
 > _Screenshot taken on May 13, 2025_
 
